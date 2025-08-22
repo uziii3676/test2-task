@@ -16,7 +16,7 @@ SELECT * FROM users;
 
 UPDATE users
 SET age = 23
-WHERE name = 'Ahsan';
+WHERE name = 'Ahsan';//id=3
 
 CREATE TABLE bill (
     id SERIAL PRIMARY KEY,
